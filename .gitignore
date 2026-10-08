@@ -19,5 +19,13 @@ docs/layout.json
 *.key
 **/.test/
 
-# Keep the completed lab report local.
-/实验一_音乐播放APP_CODEX实验报告.docx
+# Keep coursework reports, templates, and their rendering helpers local.
+*实验报告*.doc
+*实验报告*.docx
+*实验报告*.pdf
+*模板*.doc
+*模板*.docx
+*模板*.dot
+*模板*.dotx
+/scripts/render-report.ps1
+/scripts/render-report.py
