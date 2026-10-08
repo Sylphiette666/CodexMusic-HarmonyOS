@@ -18,3 +18,6 @@ docs/layout.json
 *.pem
 *.key
 **/.test/
+
+# Keep the completed lab report local.
+/实验一_音乐播放APP_CODEX实验报告.docx

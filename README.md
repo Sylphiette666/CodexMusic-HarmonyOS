@@ -4,8 +4,6 @@
 
 工程不依赖 TRAE，也不依赖原来的 `Application` 工程。
 
-[完成版实验报告](实验一_音乐播放APP_CODEX实验报告.docx) 已按用户提供的《实验报告模板》填写，共 8 页，保留八个章节、学校页眉与页码，包含三段关键代码、真实排错记录和四张模拟器截图。个人信息、成绩、帮助程度评分和签名留空；提示词复现案例与原始对话记录、已验证项与待测项分别注明。
-
 ## 环境与启动
 
 | 项目 | 配置 |
@@ -39,7 +37,7 @@ Set-Location -LiteralPath 'D:\Work\Harmony_Next\CodexMusic'
 
 脚本调用 DevEco Studio 附带的 Node、Hvigor、Java 和 SDK，不需要 TRAE。构建输出位于 `entry/build/default/outputs/default/`。名称包含 `unsigned` 的 HAP 是未签名产物；本机测试模拟器允许安装，但不能据此保证其他设备允许。真机请使用 DevEco Studio 的匹配签名配置。项目不包含个人证书、密码或设备授权文件。
 
-`artifacts/entry-default-unsigned.hap` 与 `artifacts/entry-ohosTest-unsigned.hap` 是本次验证对应的最终未签名应用包和测试包。根目录的 `实验一_音乐播放APP_CODEX实验报告.docx` 已完成五页排版检查，姓名、学号等个人信息待本人填写；`docs/fixtures` 提供可复现的 `CodexImport.wav` 和配套 LRC 验收素材。
+`artifacts/entry-default-unsigned.hap` 与 `artifacts/entry-ohosTest-unsigned.hap` 是本次验证对应的最终未签名应用包和测试包。`docs/fixtures` 提供可复现的 `CodexImport.wav` 和配套 LRC 验收素材。
 
 ## 四个页面
 
