@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-08",
+  "sdk": "HarmonyOS 6.1.1 API 24",
+  "bundleName": "cn.gdut.codexmusic",
+  "signing": "unsigned",
+  "mainBuild": "BUILD SUCCESSFUL",
+  "testBuild": "BUILD SUCCESSFUL",
+  "deviceTests": {
+    "run": 10,
+    "pass": 10,
+    "failure": 0,
+    "error": 0
+  },
+  "files": [
+    {
+      "file": "entry-default-unsigned.hap",
+      "bytes": 4352529,
+      "sha256": "ba1134843db56bacc84ec2657db87d45dbad3ddb65cf0b98bc71a345a6ecf071"
+    },
+    {
+      "file": "entry-ohosTest-unsigned.hap",
+      "bytes": 5323559,
+      "sha256": "78bacbd38422cda4aca1a68c900a7b23e24548a196fc56a60df9675e6d61fb0f"
+    }
+  ],
+  "sourceHashes": {
+    "AppScope/app.json5": "43492ab2b9762c6b201feb5b2885e5b684cba377e6733484193d370a0d257209",
+    "AppScope/resources/base/element/string.json": "bd2bccd97eb590d7238dac8e757cfdf317df23fb4542c1704dd5fbb589fb6422",
+    "AppScope/resources/base/media/app_icon.svg": "ad27f24938ace4cc9ca5b986db21254830662273b6e526d387305daf9ce3475e",
+    "entry/src/main/ets/entryability/EntryAbility.ets": "c6b08a9bc0791f2f3e8feb4f0391712d0cd133cf753e46f6d8d98a287aa150bc",
+    "entry/src/main/ets/model/Lyrics.ets": "1d723250755b200f334038f8fccd4650df6277faed0125cef8ca923aa7fdcd75",
+    "entry/src/main/ets/model/MusicModels.ets": "ec33b3634e865859f2e1fcbaf0bc0117fe40460758cda1618445cf03a77a505d",
+    "entry/src/main/ets/model/MusicRepository.ets": "0a43912be4cd0a8546eb27cee6b11123cc4390a60eaccec7a38f073d111341e4",
+    "entry/src/main/ets/pages/Index.ets": "f3866bda2f8aa5664fb1d66efd09da7437750bd7960ab1eec9717745c6820cf1",
+    "entry/src/main/ets/services/ImportService.ets": "b19e3fa345d2bc86aded568f1f0bb967603bdbb324c2a07e3bf1d94853e6c790",
+    "entry/src/main/ets/services/PlayerService.ets": "a2402e1ce63fbacef55252353403e14f2810523e4a30007322c198ecff09aebf",
+    "entry/src/main/ets/services/VoiceService.ets": "2c4a5c443a577adeda44ede2e5729f99c33aaaba893ea4701c886bfcfa00414d",
+    "entry/src/main/module.json5": "2228e217f3693cae059bbdfe17776fe7d16972885d65e8d97cd80fe1a5c03dbd",
+    "entry/src/main/resources/base/element/color.json": "45715ef97b9e5112b4e4c769ee2b37f4d527e752633e936f0af42bc26d560c3e",
+    "entry/src/main/resources/base/element/string.json": "1f32689645487285cd943703fa4d8e5f02793180ca102302fa390802c877f639",
+    "entry/src/main/resources/base/media/app_icon.svg": "ad27f24938ace4cc9ca5b986db21254830662273b6e526d387305daf9ce3475e",
+    "entry/src/main/resources/base/media/cover_dawn.svg": "440a3fee8503eef6c5e4a7269c386f3f99a2b2c9a84a4422e1f5e29be96e99be",
+    "entry/src/main/resources/base/media/cover_rain.svg": "23aebbe9e9d8767db8c2122d92307347726c5d18da2f235e505dbfe1749709d5",
+    "entry/src/main/resources/base/media/cover_stars.svg": "915c44d90607208e6ec466a99df63217ccb34bbc8729a3ab3c1eaba93e3157cb",
+    "entry/src/main/resources/base/profile/main_pages.json": "926c91233cea5a64abc2c5cfa03742eae4630d65601e100903aabe92df876377",
+    "entry/src/main/resources/rawfile/AUDIO_LICENSE.txt": "84fb8f6eeabbd231cdc2972bc600b4701aee78027fd43519aa01f1eec2aa2ec4",
+    "entry/src/main/resources/rawfile/dawn.wav": "fab25acbef76de1eb488884d40908db9d63a4b7bf32c4a18db35b23aa595d8f0",
+    "entry/src/main/resources/rawfile/rain.wav": "32fe70f7e40f5366852d7b3296872e307706afa5915b28dcf751f2dcd47796bf",
+    "entry/src/main/resources/rawfile/stars.wav": "efeacdc3e4bd8c1fc2345dff6a0b62e83922d9b6eb0e1be7a52c94ed69294463",
+    "entry/src/ohosTest/ets/test/List.test.ets": "43a032579caa761436051e4c1e238ee55b7717d9c8f103753ce90b1a28da8671",
+    "entry/src/ohosTest/ets/test/MusicModel.test.ets": "6d2a5c63dea6b2880ebb7b1f0a54d928f131d423713aa5903b680d792c556e49",
+    "entry/src/ohosTest/ets/test/MusicRepository.test.ets": "bc6fdac424676425784f707ce23200a017669fd54eb4a584d40928146c63a0ca",
+    "entry/src/ohosTest/ets/test/TestContext.ets": "898b81d3279cfe130d27d8414019ca8f808b2d42a1a26db4e9c3cca2098f8061",
+    "entry/src/ohosTest/module.json5": "067824dac8161d8d55aaa0d05cd4f06ac4fa122131995fcec245af62030f6869",
+    "hvigor/hvigor-config.json5": "4b9ffc05484381bc286c8bc74f1662b922f02a1da18ec2a8baa7d15da8f80c5a"
+  }
+}

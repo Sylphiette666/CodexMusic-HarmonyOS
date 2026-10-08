@@ -1,0 +1,107 @@
+> hvigor [32mUP-TO-DATE :entry:ohosTest@PreBuild...  [39m
+> hvigor [32mFinished :entry:ohosTest@CreateModuleInfo... after 2 ms [39m
+> hvigor [32mUP-TO-DATE :entry:ohosTest@GenerateMetadata...  [39m
+> hvigor [32mFinished :entry:ohosTest@ConfigureCmake... after 1 ms [39m
+> hvigor [32mUP-TO-DATE :entry:ohosTest@MergeProfile...  [39m
+> hvigor [32mUP-TO-DATE :entry:ohosTest@CreateBuildProfile...  [39m
+> hvigor [32mFinished :entry:ohosTest@PreCheckSyscap... after 1 ms [39m
+> hvigor [32mUP-TO-DATE :entry:ohosTest@GenerateOhosTestTemplate...  [39m
+> hvigor [32mUP-TO-DATE :entry:ohosTest@GeneratePkgContextInfo...  [39m
+> hvigor [32mFinished :entry:ohosTest@GeneratePkgSdkInfo... after 7 ms [39m
+> hvigor [32mFinished :entry:ohosTest@ProcessIntegratedHsp... after 2 ms [39m
+> hvigor [32mFinished :entry:ohosTest@BuildNativeWithCmake... after 1 ms [39m
+> hvigor [32mUP-TO-DATE :entry:ohosTest@MakePackInfo...  [39m
+> hvigor [32mFinished :entry:ohosTest@SyscapTransform... after 4 ms [39m
+> hvigor [32mUP-TO-DATE :entry:ohosTest@ProcessProfile...  [39m
+> hvigor [32mUP-TO-DATE :entry:ohosTest@ProcessRouterMap...  [39m
+> hvigor [32mUP-TO-DATE :entry:ohosTest@ProcessShareConfig...  [39m
+> hvigor [32mFinished :entry:ohosTest@ProcessStartupConfig... after 4 ms [39m
+> hvigor [32mFinished :entry:ohosTest@BuildNativeWithNinja... after 1 ms [39m
+> hvigor [32mUP-TO-DATE :entry:ohosTest@ProcessResource...  [39m
+> hvigor [32mUP-TO-DATE :entry:ohosTest@GenerateLoaderJson...  [39m
+> hvigor [32mUP-TO-DATE :entry:ohosTest@ProcessLibs...  [39m
+> hvigor [32mUP-TO-DATE :entry:ohosTest@CompileResource...  [39m
+> hvigor [32mUP-TO-DATE :entry:ohosTest@DoNativeStrip...  [39m
+> hvigor [32mFinished :entry:ohosTest@OhosTestBuildJS... after 6 ms [39m
+> hvigor [32mUP-TO-DATE :entry:ohosTest@CacheNativeLibs...  [39m
+> hvigor WARN: WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/ohosTest/ets/test/TestContext.ets:13:15
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:242:11
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:252:26
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:255:14
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:256:26
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:256:43
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:257:18
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:257:35
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:258:19
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:258:36
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:259:18
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:259:35
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:260:16
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:260:33
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:261:21
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:261:36
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:262:18
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:262:35
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:263:19
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:263:36
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:264:21
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:264:38
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:267:7
+ Function may throw exceptions. Special handling is required.
+
+
+> hvigor [32mFinished :entry:ohosTest@OhosTestCompileArkTS... after 6 s 586 ms [39m
+> hvigor [32mFinished :entry:ohosTest@OhosTestCopyMockConfigJson... after 3 ms [39m
+> hvigor [32mUP-TO-DATE :entry:ohosTest@GeneratePkgModuleJson...  [39m
+> hvigor [32mFinished :entry:ohosTest@ProcessCompiledResources... after 1 ms [39m
+> hvigor [32mFinished :entry:ohosTest@PackageHap... after 694 ms [39m
+> hvigor [32mFinished :entry:ohosTest@PackingCheck... after 7 ms [39m
+> hvigor WARN: No signingConfig found for product default
+> hvigor [32mFinished :entry:ohosTest@SignHap... after 3 ms [39m
+> hvigor [32mFinished :entry:ohosTest@CollectDebugSymbol... after 2 ms [39m
+> hvigor [32mFinished :entry:assembleHap... after 1 ms [39m
+> hvigor [32mBUILD SUCCESSFUL in 13 s 484 ms [39m

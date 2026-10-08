@@ -1,0 +1,15 @@
+PASS picker cancellation is distinct from failure
+PASS unsupported phone folder access is explicit
+PASS API 24 phone/tablet cannot open folder picker even when syscap reports true
+PASS 2in1 also requires directory-selection syscap
+PASS copy survives partial writes and associates selected LRC
+PASS identical content is deduplicated across filenames and extensions
+PASS rescan retains identity and saved lyrics
+PASS failed decoding removes copied audio and all attachments
+PASS metadata tag and extracted cover are persisted
+PASS huge files are rejected before copying
+PASS lyrics cancellation, invalid LRC, and UTF-16 handling
+PASS authorized directory scan finds nested audio and matching LRC
+PASS delete rejects outside/traversal paths and preserves original files
+PASS all native descriptors/extractors are released on success and errors
+14 import-service behavior tests passed (platform APIs mocked).

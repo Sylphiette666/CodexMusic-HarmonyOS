@@ -1,0 +1,2 @@
+ba1134843db56bacc84ec2657db87d45dbad3ddb65cf0b98bc71a345a6ecf071  entry-default-unsigned.hap
+78bacbd38422cda4aca1a68c900a7b23e24548a196fc56a60df9675e6d61fb0f  entry-ohosTest-unsigned.hap

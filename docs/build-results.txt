@@ -1,0 +1,189 @@
+> hvigor [32mUP-TO-DATE :entry:default@PreBuild...  [39m
+> hvigor [32mFinished :entry:default@CreateModuleInfo... after 2 ms [39m
+> hvigor [32mUP-TO-DATE :entry:default@GenerateMetadata...  [39m
+> hvigor [32mFinished :entry:default@ConfigureCmake... after 1 ms [39m
+> hvigor [32mUP-TO-DATE :entry:default@MergeProfile...  [39m
+> hvigor [32mUP-TO-DATE :entry:default@CreateBuildProfile...  [39m
+> hvigor [32mFinished :entry:default@PreCheckSyscap... after 1 ms [39m
+> hvigor [32mUP-TO-DATE :entry:default@GeneratePkgContextInfo...  [39m
+> hvigor [32mFinished :entry:default@GeneratePkgSdkInfo... after 3 ms [39m
+> hvigor [32mFinished :entry:default@ProcessIntegratedHsp... after 2 ms [39m
+> hvigor [32mFinished :entry:default@BuildNativeWithCmake... after 1 ms [39m
+> hvigor [32mUP-TO-DATE :entry:default@MakePackInfo...  [39m
+> hvigor [32mFinished :entry:default@SyscapTransform... after 26 ms [39m
+> hvigor [32mUP-TO-DATE :entry:default@ProcessProfile...  [39m
+> hvigor [32mUP-TO-DATE :entry:default@ProcessRouterMap...  [39m
+> hvigor [32mUP-TO-DATE :entry:default@ProcessShareConfig...  [39m
+> hvigor [32mFinished :entry:default@ProcessStartupConfig... after 6 ms [39m
+> hvigor [32mFinished :entry:default@BuildNativeWithNinja... after 1 ms [39m
+> hvigor [32mUP-TO-DATE :entry:default@ProcessResource...  [39m
+> hvigor [32mUP-TO-DATE :entry:default@GenerateLoaderJson...  [39m
+> hvigor [32mUP-TO-DATE :entry:default@ProcessLibs...  [39m
+> hvigor [32mUP-TO-DATE :entry:default@CompileResource...  [39m
+> hvigor [32mUP-TO-DATE :entry:default@DoNativeStrip...  [39m
+> hvigor [32mFinished :entry:default@BuildJS... after 5 ms [39m
+> hvigor [32mUP-TO-DATE :entry:default@CacheNativeLibs...  [39m
+> hvigor WARN: WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/entryability/EntryAbility.ets:6:5
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:242:11
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:252:26
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:255:14
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:256:26
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:256:43
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:257:18
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:257:35
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:258:19
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:258:36
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:259:18
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:259:35
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:260:16
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:260:33
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:261:21
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:261:36
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:262:18
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:262:35
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:263:19
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:263:36
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:264:21
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:264:38
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/model/MusicRepository.ets:267:7
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/VoiceService.ets:299:7
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:114:15
+ The API is not supported on all devices. Use the canIUse condition to determine whether the API is supported.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:114:35
+ The API is not supported on all devices. Use the canIUse condition to determine whether the API is supported.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:114:54
+ The API is not supported on all devices. Use the canIUse condition to determine whether the API is supported.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:221:17
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:222:15
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:228:17
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:229:13
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:252:35
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:385:40
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:389:33
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:398:39
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:404:23
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:410:13
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:419:33
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:422:25
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:423:35
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:425:48
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:439:13
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:445:15
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:480:33
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:482:35
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:483:12
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:490:37
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:509:13
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:514:35
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:519:37
+ Function may throw exceptions. Special handling is required.
+
+WARN: ArkTS:WARN File: D:/Work/Harmony_Next/CodexMusic/entry/src/main/ets/services/ImportService.ets:526:13
+ Function may throw exceptions. Special handling is required.
+
+
+> hvigor [32mFinished :entry:default@CompileArkTS... after 10 s 428 ms [39m
+> hvigor [32mUP-TO-DATE :entry:default@GeneratePkgModuleJson...  [39m
+> hvigor [32mFinished :entry:default@ProcessCompiledResources... after 1 ms [39m
+> hvigor [32mFinished :entry:default@PackageHap... after 772 ms [39m
+> hvigor [32mFinished :entry:default@PackingCheck... after 17 ms [39m
+> hvigor WARN: No signingConfig found for product default
+> hvigor [32mFinished :entry:default@SignHap... after 3 ms [39m
+> hvigor [32mFinished :entry:default@CollectDebugSymbol... after 1 ms [39m
+> hvigor [32mFinished :entry:assembleHap... after 1 ms [39m
+> hvigor [32mBUILD SUCCESSFUL in 17 s 751 ms [39m

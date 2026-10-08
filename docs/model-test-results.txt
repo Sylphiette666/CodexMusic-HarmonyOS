@@ -1,0 +1,31 @@
+PASS search covers title, artist, album and filename with case-insensitive multiple terms
+PASS search retains the original filename after the importer changes URI to a content hash
+PASS sequential playback stops at the final song on automatic completion only
+PASS queue wraps forward/backward and handles empty, singleton and invalid selection
+PASS single repeat only repeats on automatic completion
+PASS random mode excludes the current song across samples and clamps bad randomness
+PASS voice parser recognizes synonyms, polite prefixes and play/search arguments
+PASS voice parser avoids executing negated, ambiguous or empty commands
+PASS LRC reads repeated timestamps, sorts lines, handles fractional precision and metadata
+PASS LRC ordinary timing is explicitly estimated and preserves emoji characters
+PASS enhanced LRC preserves actual word boundaries and a terminal marker
+PASS LRC offsets are applied to line and enhanced word stamps, including clipping at zero
+PASS repeated enhanced line stamps shift word timestamps consistently
+PASS LRC clips final word to track duration and ignores lines starting beyond it
+PASS malformed timestamps do not become authoritative timing
+PASS lyric location follows seek in both directions and progress clamps to valid range
+PASS demo tracks are three unique 30-second rawfiles with explicitly estimated captions
+PASS repository requires initialization and initializes real schema with seeds once
+PASS repository creates persistent playlists and rejects duplicate/invalid names
+PASS repository parameter-binds quoted names, paths and injection-like titles
+PASS repository deduplicates URI while retaining the original ID and playlist membership
+PASS playlist membership deduplicates, keeps order and rejects nonexistent rows
+PASS original filenames persist through RDB and remain when metadata updates omit the optional name
+PASS batch save rolls back on ID conflict and the operation queue recovers
+PASS invalid durations reject before entering a transaction, including negative fractions
+PASS deleting a song atomically cleans all playlist memberships without foreign-key enforcement
+PASS deleting a playlist is atomic and removing one membership keeps the library song
+PASS database data persists after closing/reopening and deleted demos do not reappear
+PASS concurrent saves and memberships serialize correctly and close all result sets
+PASS existing databases upgrade the filename column without losing songs or playlists
+Music model / SQLite contract tests: 30/30 passed.

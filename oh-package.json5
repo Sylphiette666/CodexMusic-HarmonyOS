@@ -1,0 +1,10 @@
+{
+  "modelVersion": "6.1.1",
+  "name": "codex-music",
+  "version": "1.0.0",
+  "description": "听见 鸿蒙音乐实验 CODEX版",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.25"
+  }
+}

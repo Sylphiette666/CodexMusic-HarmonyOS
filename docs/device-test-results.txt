@@ -1,0 +1,215 @@
+start ability successfully.
+
+OHOS_REPORT_SUM: 6
+OHOS_REPORT_STATUS: class=MusicModel
+
+
+OHOS_REPORT_STATUS: class=MusicModel
+OHOS_REPORT_STATUS: current=1
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=searchesMetadataAndOriginalFilenameAfterHashing
+OHOS_REPORT_STATUS_CODE: 1
+
+
+OHOS_REPORT_STATUS: class=MusicModel
+OHOS_REPORT_STATUS: current=1
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=searchesMetadataAndOriginalFilenameAfterHashing
+OHOS_REPORT_STATUS_CODE: 0
+OHOS_REPORT_STATUS: consuming=3
+
+
+OHOS_REPORT_STATUS: class=MusicModel
+OHOS_REPORT_STATUS: current=2
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=sequenceStopsAtEndAndRepeatOneAllowsManualSkip
+OHOS_REPORT_STATUS_CODE: 1
+
+
+OHOS_REPORT_STATUS: class=MusicModel
+OHOS_REPORT_STATUS: current=2
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=sequenceStopsAtEndAndRepeatOneAllowsManualSkip
+OHOS_REPORT_STATUS_CODE: 0
+OHOS_REPORT_STATUS: consuming=3
+
+
+OHOS_REPORT_STATUS: class=MusicModel
+OHOS_REPORT_STATUS: current=3
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=randomSkipsCurrentAndHandlesBoundarySamples
+OHOS_REPORT_STATUS_CODE: 1
+
+
+OHOS_REPORT_STATUS: class=MusicModel
+OHOS_REPORT_STATUS: current=3
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=randomSkipsCurrentAndHandlesBoundarySamples
+OHOS_REPORT_STATUS_CODE: 0
+OHOS_REPORT_STATUS: consuming=27
+
+
+OHOS_REPORT_STATUS: class=MusicModel
+OHOS_REPORT_STATUS: current=4
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=voiceParsesActionsQueriesAndRejectsNegation
+OHOS_REPORT_STATUS_CODE: 1
+
+
+OHOS_REPORT_STATUS: class=MusicModel
+OHOS_REPORT_STATUS: current=4
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=voiceParsesActionsQueriesAndRejectsNegation
+OHOS_REPORT_STATUS_CODE: 0
+OHOS_REPORT_STATUS: consuming=4
+
+
+OHOS_REPORT_STATUS: class=MusicModel
+OHOS_REPORT_STATUS: current=5
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=lrcSortsMultipleStampsAndLabelsEstimatedCharacterTiming
+OHOS_REPORT_STATUS_CODE: 1
+
+
+OHOS_REPORT_STATUS: class=MusicModel
+OHOS_REPORT_STATUS: current=5
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=lrcSortsMultipleStampsAndLabelsEstimatedCharacterTiming
+OHOS_REPORT_STATUS_CODE: 0
+OHOS_REPORT_STATUS: consuming=3
+
+
+OHOS_REPORT_STATUS: class=MusicModel
+OHOS_REPORT_STATUS: current=6
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=enhancedLrcHonorsOffsetWordBoundariesAndDuration
+OHOS_REPORT_STATUS_CODE: 1
+
+
+OHOS_REPORT_STATUS: class=MusicModel
+OHOS_REPORT_STATUS: current=6
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=enhancedLrcHonorsOffsetWordBoundariesAndDuration
+OHOS_REPORT_STATUS_CODE: 0
+OHOS_REPORT_STATUS: consuming=14
+
+
+OHOS_REPORT_STATUS: class=MusicModel
+OHOS_REPORT_STATUS: suiteconsuming=54
+
+
+OHOS_REPORT_SUM: 4
+OHOS_REPORT_STATUS: class=MusicRepositoryDeviceRdb
+
+
+OHOS_REPORT_STATUS: class=MusicRepositoryDeviceRdb
+OHOS_REPORT_STATUS: current=7
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=persistsSongsPlaylistsAndOriginalNamesAcrossDatabaseReopen
+OHOS_REPORT_STATUS_CODE: 1
+
+
+OHOS_REPORT_STATUS: class=MusicRepositoryDeviceRdb
+OHOS_REPORT_STATUS: current=7
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=persistsSongsPlaylistsAndOriginalNamesAcrossDatabaseReopen
+OHOS_REPORT_STATUS_CODE: 0
+OHOS_REPORT_STATUS: consuming=576
+
+
+OHOS_REPORT_STATUS: class=MusicRepositoryDeviceRdb
+OHOS_REPORT_STATUS: current=8
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=rollsBackFailedBatchAndContinuesProcessingLaterWrites
+OHOS_REPORT_STATUS_CODE: 1
+
+
+OHOS_REPORT_STATUS: class=MusicRepositoryDeviceRdb
+OHOS_REPORT_STATUS: current=8
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=rollsBackFailedBatchAndContinuesProcessingLaterWrites
+OHOS_REPORT_STATUS_CODE: 0
+OHOS_REPORT_STATUS: consuming=260
+
+
+OHOS_REPORT_STATUS: class=MusicRepositoryDeviceRdb
+OHOS_REPORT_STATUS: current=9
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=cleansRelationsAndSerializesConcurrentPlaylistChanges
+OHOS_REPORT_STATUS_CODE: 1
+
+
+OHOS_REPORT_STATUS: class=MusicRepositoryDeviceRdb
+OHOS_REPORT_STATUS: current=9
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=cleansRelationsAndSerializesConcurrentPlaylistChanges
+OHOS_REPORT_STATUS_CODE: 0
+OHOS_REPORT_STATUS: consuming=268
+
+
+OHOS_REPORT_STATUS: class=MusicRepositoryDeviceRdb
+OHOS_REPORT_STATUS: current=10
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=upgradesLegacySchemaWithoutDeletingExistingSongs
+OHOS_REPORT_STATUS_CODE: 1
+
+
+OHOS_REPORT_STATUS: class=MusicRepositoryDeviceRdb
+OHOS_REPORT_STATUS: current=10
+OHOS_REPORT_STATUS: id=JS
+OHOS_REPORT_STATUS: numtests=10
+OHOS_REPORT_STATUS: stream=
+OHOS_REPORT_STATUS: test=upgradesLegacySchemaWithoutDeletingExistingSongs
+OHOS_REPORT_STATUS_CODE: 0
+OHOS_REPORT_STATUS: consuming=337
+
+
+OHOS_REPORT_STATUS: class=MusicRepositoryDeviceRdb
+OHOS_REPORT_STATUS: suiteconsuming=1441
+
+
+OHOS_REPORT_RESULT: stream=Tests run: 10, Failure: 0, Error: 0, Pass: 10, Ignore: 0
+OHOS_REPORT_CODE: 0
+OHOS_REPORT_STATUS: taskconsuming=1495
+
+TestFinished-ResultCode: 0
+TestFinished-ResultMsg: your test finished!!!
+user test finished.

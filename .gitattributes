@@ -1,0 +1,7 @@
+# Keep validated source and artifact hashes stable across platforms.
+* -text
+*.docx binary
+*.hap binary
+*.wav binary
+*.jpeg binary
+*.png binary
